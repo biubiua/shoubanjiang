@@ -56,7 +56,7 @@ nav{
 	    background-color: #f66875;    
 	    z-index:20;
 	    text-align: center;
-	    padding:3px 0;
+	    padding:px2rem(3px) 0;
 	
 	    i{
 	    	display: block;
@@ -67,21 +67,21 @@ nav{
 	    }
 	}
 #homedetail{
-	margin-top:45px;
+	margin-top:px2rem(45px);
 	.header{
-		padding-top: 22px;
-   		 margin-bottom: 23px;
+		padding-top: px2rem(22px);
+   		 margin-bottom: px2rem(23px);
 		img{
 			float: left;
 		    display: block;
 		    box-sizing: border-box;
 		    border: 1px solid #dadada;
 		    border-radius: 50%;
-		    width: 40px;
-		    height: 40px;
+		    width: px2rem(40px);
+		    height: px2rem(40px);
 		}
 		p{
-			margin:5px;
+			margin:px2rem(5px);
 		}
 	}
 }

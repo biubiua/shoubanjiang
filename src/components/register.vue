@@ -63,7 +63,7 @@ $base:100px;
 	width:80%;
 	height:100%;
 	margin:0 auto;
-	padding-top:15px;
+	padding-top:px2rem(15px);
 	overflow:hidden;
 	font-size:px2rem(10px);
 	position:relative;
@@ -99,7 +99,7 @@ $base:100px;
 		float:right;
 		color:black;
 		margin:px2rem(35px) 0;
-		font-size:18px;
+		font-size:px2rem(18px);
 	}
 }
 </style>

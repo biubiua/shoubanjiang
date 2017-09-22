@@ -103,7 +103,7 @@ $base:100px;
 	    background-color: #f66875;    
 	    z-index:20;
 	    text-align: center;
-	    font-size:16px;
+	    font-size:px2rem(16px);
 	    padding:3px 0 ;
 	    p{
 	    	display: inline-block;    	
@@ -115,7 +115,7 @@ $base:100px;
 	    	}
 	    }
 	    .shezhi{
-	    	margin-right:10px;
+	    	margin-right:px2rem(10px);
 	    	float:right;
 	    }
 	    .ling{

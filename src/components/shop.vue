@@ -128,11 +128,11 @@ $base:100px;
 		padding:0 px2rem(3px);
 		padding-top:px2rem(5px);
 		background: #f0f0f0;
-		margin-top:20px;
+		margin-top:px2rem(20px);
 		img{
 			width: 100%;
     		height: 100%;
-    		border-radius: 8px 8px 0 0;
+    		border-radius: px2rem(8px) px2rem(8px) 0 0;
 		}
 		.name{
 			overflow: hidden;

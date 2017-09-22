@@ -130,7 +130,7 @@ $base:100px;
     width: px2rem(54px);
     height: px2rem(24px);
     border-radius: px2rem(12px) 0 0 px2rem(12px);
-    line-height: 24px;
+    line-height: px2rem(24px);
     background-color: rgba(0,0,0,.6);
  }
 }

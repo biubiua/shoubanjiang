@@ -95,7 +95,7 @@ nav{
 	    background-color: #f66875;    
 	    z-index:20;
 	    text-align: center;
-	    padding:3px 0;
+	    padding:px2rem(3px) 0;
 	    span{
 	    	margin-left:px2rem(50px);
 	    }

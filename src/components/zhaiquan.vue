@@ -41,7 +41,7 @@ $base:100px;
 	background-color: #f66875;    
 	z-index:20;
 	text-align: center;
-	padding-bottom:5px;
+	padding-bottom:px2rem(5px);
 	span{
 		width:50%;
 		list-style: none;
@@ -57,7 +57,7 @@ $base:100px;
 		float:right;
 	}
 	.active{
-		border-bottom:3px solid white;
+		border-bottom:px2rem(3px) solid white;
 	}
 }
 </style>

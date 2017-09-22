@@ -85,7 +85,7 @@ $base:100px;
   @return $px/$base *1rem;
 }
 #new{
-  margin-top:40px;
+  margin-top:px2rem(40px);
   li{
     list-style: none;
     overflow: hidden;
